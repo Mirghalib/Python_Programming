@@ -1,0 +1,13 @@
+x = int(input("Enter First Number : "))
+y = int(input("Enter Second Number : "))
+
+print("========","Comparison & Logical Expressions","========")
+print("=\t\t\t\t\t\t =")
+print("=        ","x > y =",x > y,"                          =")
+print("=        ","x < y =",x < y,"                         =")
+print("=        ","x == y =",x == y,"                        =")
+print("=        ","x != y =",x != y,"                         =")
+print("=        ","(x > y) and (x != y) =",(x > y) and (x != y),"           =")
+print("=        ","(x < y) or (x != y) =",(x < y) or (x == y),"           =")
+print("=\t\t\t\t\t\t =")
+print("==-=="*10)
