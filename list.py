@@ -21,10 +21,10 @@
 # list.append("Noor")
 # print(list)
 
-list=["qamar", "abbas","sheikh"]
-list2 = ["Mushu", "Kushu","Fishu"]
-new = list+list2
-print(new)
+# list=["qamar", "abbas","sheikh"]
+# list2 = ["Mushu", "Kushu","Fishu"]
+# new = list+list2
+# print(new)
 
 # list=["qamar", "abbas","sheikh"]
 # list2 = ["Mushu", "Kushu","Fishu"]
